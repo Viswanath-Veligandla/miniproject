@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>Corona information</title>
+</head>
+<body bgcolor="pink">
+<table border="2">
+<tr>
+<h1>Corona details/symptoms</h1>
+<li> fever</li>
+<li> cough</li>
+<li> cold</li>
+<li> bodypains</li>
+<tr>
+<td colspan="2", align="center">Corona details</td>
+</tr>
+<tr>
+<td> fever</td>
+<td> cough</td>
+</tr>
+<tr>
+<td> cold</td>
+<td> bodypains</td>
+</tr>
+</table>
+<marquee>wear the mask.predict virus</marquee>
+<tr>
+<table border ="2"
+<h2> precautions</h2>
+<li> sanitizer</li>
+<li> mask</li>
+<li> social distance</li>
+<table border="2",align="center">precautions</td>
+<tr>
+<td colspan="2",align="center">Precautions</td>
+</tr>
+<tr>
+<td>sanitizer</td>
+<td>mask</td>
+</tr>
+<tr>
+<td>social distance</td>
+<td></td>
+</table>
+</body>
+</html>
+<html>
+<head>
+<title>Corona information</title>
+</head>
+<body bgcolor="pink">
+<table border="2">
+<tr>
+<h1>Corona details/symptoms</h1>
+<li> fever</li>
+<li> cough</li>
+<li> cold</li>
+<li> bodypains</li>
+<tr>
+<td colspan="2", align="center">Corona details</td>
+</tr>
+<tr>
+<td> fever</td>
+<td> cough</td>
+</tr>
+<tr>
+<td> cold</td>
+<td> bodypains</td>
+</tr>
+</table>
+<marquee>wear the mask.predict virus</marquee>
+<tr>
+<table border ="2"
+<h2> precautions</h2>
+<li> sanitizer</li>
+<li> mask</li>
+<li> social distance</li>
+<table border="2",align="center">precautions</td>
+<tr>
+<td colspan="2",align="center">Precautions</td>
+</tr>
+<tr>
+<td>sanitizer</td>
+<td>mask</td>
+</tr>
+<tr>
+<td>social distance</td>
+<td></td>
+</table>
+</body>
+</html>
+<html>
+<head>
+<title>Nested list</title>
+</head>
+<body>
+<ol>
+<li> kurnool</li>
+<ul type="square">
+<li> GPREC</li>
+<li> GPCET</li>
+</ol>
+</body>
+</html>
+<html>
+<head>
+	<title>HTML</title>
+</head>
+<body>
+	<i>Web Overview</p>
+	<b>Basic Software</p>
+	<em>Website</em><br/>
+	<Strong>Dealing files</strong><br/>
+	<Strike>HTML basics</strike><br/>
+	a<sup>2</sup>-b<sup>2</sup><br/>
+	h<sub>2</sub>0<br/>
+	<mark>CSS basics</mark><br/>
+	<u>Javascript</u>
+	<p>How the<small> web</small> works</p>
+</body>
+</html>
+<html>
+<head>
+<title>Ordered List</title>
+</head>
+<body>
+	<ol type ="1">
+	 <li>CSE</li>
+	 <li>ECE</li>
+	 <li>EEE</li>
+	  <ol type ="i">
+	   <li>C++</li>
+	   <li>Java</li>
+	   <li>WEB DESIGN</li>
+	    <ol type ="a">
+		 <li>HTML</li>
+		 <li>CSS</li>
+		</ol>
+	  </ol>
+	 </ol>
+</body>
+</html>
